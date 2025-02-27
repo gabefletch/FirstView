@@ -1,5 +1,5 @@
 # FirstView
-A [Framer](https://framer.com) component that only appears on a user's very first website visit until it is dismissed.<br>
+A [Framer](https://framer.com) component that only appears on a user's very first website visit and persists until it is dismissed.<br>
 
 FirstView operates by using a [Fetch](https://fetch.tools) component in Framer that gets data from a [Val Town](https://val.town) script.<br>
 
